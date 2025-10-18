@@ -13,3 +13,7 @@ Improve performance
 ## Update
 
 Update README with examples
+
+## Update
+
+Fix security issue
