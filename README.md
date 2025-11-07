@@ -17,3 +17,5 @@ Update README with examples
 ## Update
 
 Fix security issue
+
+# Add new feature
