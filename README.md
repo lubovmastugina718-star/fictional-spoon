@@ -19,3 +19,7 @@ Update README with examples
 Fix security issue
 
 # Add new feature
+
+## Update
+
+Update .gitignore
