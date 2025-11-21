@@ -23,3 +23,7 @@ Fix security issue
 ## Update
 
 Update .gitignore
+
+## Update
+
+Fix null pointer
