@@ -33,3 +33,7 @@ Fix null pointer
 Optimize imports
 
 # Update API documentation
+
+## Update
+
+Fix race condition
