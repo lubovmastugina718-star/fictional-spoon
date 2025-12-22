@@ -37,3 +37,7 @@ Optimize imports
 ## Update
 
 Fix race condition
+
+## Update
+
+Improve error handling
