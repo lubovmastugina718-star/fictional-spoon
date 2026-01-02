@@ -3,3 +3,5 @@
 # Add error handling
 
 # Refactor code structure
+
+# Improve code readability
