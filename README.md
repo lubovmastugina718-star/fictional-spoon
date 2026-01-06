@@ -41,3 +41,7 @@ Fix race condition
 ## Update
 
 Improve error handling
+
+## Update
+
+Add retry logic
