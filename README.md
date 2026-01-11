@@ -45,3 +45,7 @@ Improve error handling
 ## Update
 
 Add retry logic
+
+## Update
+
+Fix timeout issue
