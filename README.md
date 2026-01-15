@@ -67,3 +67,5 @@ Fix security issue
 <!-- Add comments -->
 
 <!-- Improve error messages -->
+
+<!-- Refactor code structure -->
